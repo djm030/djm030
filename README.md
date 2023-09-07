@@ -6,6 +6,7 @@
 **djm030/djm030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djm030&theme=nord_dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -2,6 +2,9 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djm030&theme=nord_dark)
+<a href="https://opgc.me/#/users/djm030" target="_blank"><img src="https://api.opgc.me/githubs/users/djm030/tag/?theme=basic" /></a>
+
+
 <!--
 **djm030/djm030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

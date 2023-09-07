@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djm030&show_icons=true&theme=radical)
 <!--
 **djm030/djm030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

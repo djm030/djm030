@@ -8,6 +8,25 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kwanyeol.beag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kwanyeol.beag" height="30" width="40" /></a>
+  <a href="https://velog.io/@djm030/posts" target="_blank">
+  <img 
+    align="center" 
+    src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png" 
+    alt="Velog" 
+    height="30" 
+    width="40" 
+  />
+</a>
+
+<a href="mailto:djm030@naver.com" target="_blank">
+  <img 
+    align="center" 
+    src="https://i.namu.wiki/i/DHZPgUf-q4P-Oje3nldWwEISyHPhzW5RGktfNzoWCWaUznLNPBuSxvxtixn55gTIr_Ru4OonBqlEaFv7K1xUH4Q52mYEQEhFFObifVsHEyzTl0U1lvikOi4C7akrVo7daSohy_itFAZFzFAnZy1puw.webp" 
+    alt="djm030@naver.com" 
+    height="30" 
+    width="40" 
+  />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
